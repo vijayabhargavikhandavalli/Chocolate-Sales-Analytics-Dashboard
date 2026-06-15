@@ -47,6 +47,7 @@ This project is an interactive Power BI dashboard developed to analyze business 
 ## Dashboard Preview
 
 Add screenshots of your Power BI dashboard here.
+![Screenshot 2026-06-15 164610.png]
 
 ## Author
 
